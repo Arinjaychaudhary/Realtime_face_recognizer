@@ -21,3 +21,25 @@ background-image: url("background.jpg");
     border-radius: 10px;
     box-shadow: 10px 10px 18px black;
 }
+
+
+
+.para{
+    font-family: fantasy;
+    box-shadow: 5px 5px 20px black;
+    font-size: 20px;
+}
+.footer{
+    background-color: coral;
+    color: cornsilk;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    line-height: 3;
+
+}
+canvas{
+border:5px ridge black;
+box-shadow: 6px 6px 20px white;
+margin-top: 360px;
+}
